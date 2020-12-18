@@ -62,7 +62,7 @@ Satu tahun sebelumnya
 
 15
 00:01:41,750 --> 00:01:45,250
-Ban lengan Anda ... Anda seorang Saint Disciple?
+Ban lengan Anda ... Apakah Anda seorang Saint Disciple?
 
 16
 00:01:49,540 --> 00:01:52,790
@@ -70,130 +70,130 @@ Mengapa seorang Saint Disciple ...?
 
 17
 00:01:52,790 --> 00:01:54,540
-Quickly. We have to run.
+Segera. Kita harus lari.
 
 18
 00:02:02,750 --> 00:02:04,660
-Here. It's not much, but...
+Sini. Tidak banyak, tapi ...
 
 19
 00:02:06,870 --> 00:02:08,250
-Now, go on.
+Sekarang pergilah.
 
 20
 00:02:26,120 --> 00:02:28,200
-Raise your head.
+Angkat kepalamu.
 
 21
 00:02:29,200 --> 00:02:32,160
-Prisoner Iska, age 16.
+Prisoner Iska, usia 16.
 
 22
 00:02:32,160 --> 00:02:35,830
-You were the youngest in history to be
-granted the title of the Saint Disciple.
+Anda adalah yang termuda dalam sejarah yang 
+diberi gelar Saint Disciple.
 
 23
 00:02:35,830 --> 00:02:42,160
-However, a year ago, you were sentenced
-for breaking out an imprisoned witch.
+Namun, setahun yang lalu, Anda dihukum 
+karena membebaskan penyihir yang dipenjara.
 
 24
 00:02:42,160 --> 00:02:45,910
-This led to your demotion
-as the Saint Disciple.
+Hal ini menyebabkan penurunan pangkat Anda 
+sebagai Murid Suci.
 
 25
 00:02:45,910 --> 00:02:47,870
-Is this correct?
+Apakah ini benar?
 
 26
 00:02:47,870 --> 00:02:48,700
-Yes.
+Iya.
 
 27
 00:02:48,700 --> 00:02:52,200
-As of today, you are released.
+Mulai hari ini, Anda dibebaskan.
 
 28
 00:02:52,200 --> 00:02:55,790
-Considering our nation has been at war
-with the witches for 100 years,
+Mengingat bangsa kita telah berperang 
+dengan para penyihir selama 100 tahun,
 
 29
 00:02:55,790 --> 00:02:59,080
-your action is of a great crime.
+tindakanmu adalah kejahatan besar.
 
 30
 00:02:59,080 --> 00:03:03,700
-However, we are providing you
-with an opportunity to make amends.
+Namun, kami memberi Anda 
+kesempatan untuk menebus kesalahan.
 
 31
 00:03:03,700 --> 00:03:09,500
-You are given a mission. Our longtime enemies
-now call themselves astral mages.
+Anda diberi misi. Musuh lama kita 
+sekarang menyebut diri mereka penyihir astral.
 
 32
 00:03:09,500 --> 00:03:11,950
-You will be taking down a witch.
+Anda akan mengalahkan seorang penyihir.
 
 33
 00:03:11,950 --> 00:03:14,160
-Not just any witch.
+Bukan sembarang penyihir.
 
 34
 00:03:14,160 --> 00:03:17,830
-She is "purebred," the direct descendant
-of the Grand Witch Nebulis.
+Dia adalah "ras murni", keturunan langsung 
+dari Penyihir Agung Nebulis.
 
 35
 00:03:17,830 --> 00:03:22,540
-In the past, the Grand Witch Nebulis
-has turned our Empire into a sea of flames.
+Di masa lalu, Penyihir Agung Nebulis 
+telah mengubah Kerajaan kita menjadi lautan api.
 
 36
 00:03:22,540 --> 00:03:25,410
-Those descendants are called "purebreds,"
+Keturunan itu disebut "ras murni",
 
 37
 00:03:25,410 --> 00:03:28,950
-and as you know, harbor great astral power.
+dan seperti yang Anda ketahui, memiliki kekuatan astral yang besar.
 
 38
 00:03:28,950 --> 00:03:32,160
-Yes, I have been in many battles with them.
+Ya, saya telah banyak berperang dengan mereka.
 
 39
 00:03:32,160 --> 00:03:38,080
-Your target is one of the most powerful.
+Target Anda adalah salah satu yang paling kuat. 
 The "Ice Calamity Witch."
 
 40
 00:03:38,080 --> 00:03:40,080
-The Ice Calamity Witch...
+Penyihir Bencana Es ...
 
 41
 00:03:43,830 --> 00:03:46,410
-Successor of the Black Steel, Iska.
+Penerus Baja Hitam, Iska.
 
 42
 00:03:46,410 --> 00:03:49,580
-From this moment forward, you are free.
+Mulai saat ini dan seterusnya, Anda bebas.
 
 43
 00:03:49,580 --> 00:03:53,500
-We will provide you with a transit vehicle
-to the frontlines in 17 hours.
+Kami akan memberi Anda kendaraan transit 
+ke garis depan dalam 17 jam.
 
 44
 00:03:53,500 --> 00:03:56,410
-Anything you need, we will provide.
+Apa pun yang Anda butuhkan, kami akan menyediakan.
 
 45
 00:03:58,000 --> 00:04:01,080
-There are three members
-I would like on my unit.
+Ada tiga anggota yang 
+saya inginkan di unit saya.
 
 46
 00:04:05,140 --> 00:04:09,850
@@ -201,11 +201,11 @@ I would like on my unit.
 
 47
 00:04:05,620 --> 00:04:08,700
-Nene, where should we sit?
+Nene, kita harus duduk dimana?
 
 48
 00:04:08,700 --> 00:04:12,410
-Nene, we haven't gotten the food we ordered yet.
+Nene, kami belum mendapatkan makanan yang kami pesan.
 
 49
 00:04:12,410 --> 00:04:13,870
@@ -213,15 +213,15 @@ Nene!
 
 50
 00:04:13,870 --> 00:04:16,040
-Okay, okay!
+Baiklah baiklah!
 
 51
 00:04:17,040 --> 00:04:18,950
-I'm coming!
+Saya datang!
 
 52
 00:04:23,120 --> 00:04:24,910
-Come on in!
+Masuklah!
 
 53
 00:04:29,040 --> 00:04:31,580
@@ -229,985 +229,985 @@ Jhin?!
 
 54
 00:04:31,580 --> 00:04:34,750
-I'm glad you're here!
-Did you come to see me?
+Saya senang Anda ada di sini! 
+Apakah Anda datang menemui saya?
 
 55
 00:04:34,750 --> 00:04:37,870
-We just saw each other not long ago.
+Kami baru saja bertemu belum lama ini.
 
 56
 00:04:37,870 --> 00:04:42,330
-He's been discharged. He's back
-at the dorm, hurrying to get ready.
+Dia sudah keluar. Dia kembali 
+ke asrama, bergegas bersiap-siap.
 
 57
 00:04:43,330 --> 00:04:45,370
-Wait, you're not saying...?
+Tunggu, kamu tidak mengatakan ...?
 
 58
 00:04:45,370 --> 00:04:47,790
-We depart tomorrow morning at zero hour.
+Kami berangkat besok pagi pada jam nol.
 
 59
 00:04:47,790 --> 00:04:49,660
-We're heading for the front in a transport.
+Kami menuju ke depan dengan transportasi.
 
 60
 00:04:49,660 --> 00:04:52,700
-A transport? The front?
+Sebuah transportasi? Bagian depan?
 
 61
 00:04:59,620 --> 00:05:01,540
-It was the same as the morning sun,
+Itu sama seperti matahari pagi,
 
 62
 00:05:01,540 --> 00:05:04,660
-but it's been a year since I've seen
-the stars in the sky like this, too.
+tapi sudah setahun sejak aku melihat 
+bintang-bintang di langit seperti ini juga.
 
 63
 00:05:06,540 --> 00:05:10,000
-It's four minutes and 30 seconds to muster.
+Empat menit dan 30 detik untuk mengumpulkan.
 
 64
 00:05:10,000 --> 00:05:14,910
-Jhin! Thanks for your help contacting
-everyone this afternoon.
+Jhin! Terima kasih atas bantuan Anda menghubungi 
+semua orang siang ini.
 
 65
 00:05:14,910 --> 00:05:17,700
-I'm used to your short notice.
+Saya sudah terbiasa dengan pemberitahuan singkat Anda.
 
 66
 00:05:24,950 --> 00:05:28,450
-Iska, congrats on your release!
+Iska, selamat atas pembebasanmu!
 
 67
 00:05:29,790 --> 00:05:35,450
-Congrats! Congrats! Congrats!
+Selamat! Selamat! Selamat!
 
 68
 00:05:31,750 --> 00:05:35,450
-Nene, you don't have to jump for joy.
+Nene, kamu tidak harus melompat kegirangan.
 
 69
 00:05:35,450 --> 00:05:37,500
-Ah, looks like the captain is here!
+Ah, sepertinya kaptennya ada di sini!
 
 70
 00:05:37,500 --> 00:05:40,750
-Hey, Captain!
+Hei, Kapten!
 
 71
 00:05:40,750 --> 00:05:44,700
-G-G-Guys!
+GG-Guys!
 
 72
 00:05:44,700 --> 00:05:47,250
-I'm sorry I'm late!
+Maaf saya terlambat!
 
 73
 00:05:50,000 --> 00:05:51,790
-Ah, she fell down.
+Ah, dia jatuh.
 
 74
 00:05:51,790 --> 00:05:53,660
-Same old Captain.
+Kapten yang sama.
 
 75
 00:05:56,500 --> 00:05:59,080
-Ah, it's Iska!
+Ah, ini Iska!
 
 76
 00:05:59,080 --> 00:06:03,450
-It's been an awfully long time.
-You've grown a little taller, haven't you?
+Sudah lama sekali. 
+Anda sudah tumbuh sedikit lebih tinggi, bukan?
 
 77
 00:06:03,450 --> 00:06:06,200
---She's just going to ignore falling down...
---Have I?
+--Dia hanya akan mengabaikan jatuh ... - 
+Benarkah?
 
 78
 00:06:06,200 --> 00:06:10,290
-I guess a girl like me is no match
-when it comes to growing tall.
+Kurasa gadis sepertiku bukanlah tandingan 
+dalam hal menjadi tinggi.
 
 79
 00:06:10,290 --> 00:06:13,700
-What do you mean, "girl"?
-You're well past that age.
+Apa maksudmu, "gadis"? 
+Anda sudah melewati usia itu.
 
 80
 00:06:13,700 --> 00:06:18,080
-Wh-What are you talking about, Jhin?!
-I'm still 22!
+A-Apa yang kamu bicarakan, Jhin ?! 
+Saya masih 22!
 
 81
 00:06:20,040 --> 00:06:21,870
-Still, I'm delighted.
+Tetap saja, saya senang.
 
 82
 00:06:21,870 --> 00:06:24,540
-Iska is ever the nice, sweet boy,
+Iska adalah anak laki-laki yang baik dan manis,
 
 83
 00:06:24,540 --> 00:06:27,160
-while Nene has grown
-even more cute and pretty.
+sementara Nene menjadi 
+lebih manis dan cantik.
 
 84
 00:06:27,160 --> 00:06:30,410
-And today, at least, Jhin's sharp tongue
-brings back good memories.
+Dan hari ini, setidaknya, lidah tajam Jhin 
+membawa kembali kenangan indah.
 
 85
 00:06:30,410 --> 00:06:31,790
-Hey, hold on...
+Hei, tunggu ...
 
 86
 00:06:31,790 --> 00:06:36,500
-Anyhow, Special Defense for Humankind
-Third Division, Unit N07,
+Bagaimanapun, Pertahanan Khusus untuk Manusia 
+Divisi Ketiga, Unit N07,
 
 87
 00:06:36,500 --> 00:06:39,000
-is back together for the first time in a year!
+kembali bersama untuk pertama kalinya dalam setahun!
 
 88
 00:06:43,870 --> 00:06:47,910
-All right, off we go!
+Baiklah, kita berangkat!
 
 89
 00:06:49,830 --> 00:06:53,250
-Okay then, what kind of mission is this?
+Baiklah, misi macam apa ini?
 
 90
 00:06:53,250 --> 00:06:57,450
-Witch suppression.
-That's all our unit ever does, right?
+Penindasan penyihir. 
+Hanya itu yang pernah dilakukan unit kita, bukan?
 
 91
 00:06:57,450 --> 00:06:59,290
-What's more, our target on this one
+Apalagi target kita yang satu ini
 
 92
 00:06:59,290 --> 00:07:02,950
-is a direct descendant
-of the Grand Witch Nebulis--a purebred.
+adalah keturunan langsung 
+dari Grand Witch Nebulis - ras murni.
 
 93
 00:07:02,950 --> 00:07:04,540
-A purebred?!
+Seorang ras murni ?!
 
 94
 00:07:04,540 --> 00:07:07,500
-Boss, you've heard of
-the Ice Calamity Witch, right?
+Bos, Anda pernah mendengar tentang 
+Ice Calamity Witch, bukan?
 
 95
 00:07:07,500 --> 00:07:09,830
-The Ice Calamity Witch?!
+Penyihir Bencana Es ?!
 
 96
 00:07:09,830 --> 00:07:12,080
-I-Iska, is this true?
+I-Iska, apakah ini benar?
 
 97
 00:07:12,080 --> 00:07:15,500
-Yes. Apparently, the reason I was released
+Iya. Ternyata, alasan saya dibebaskan
 
 98
 00:07:15,500 --> 00:07:18,500
-was so we could capture this astral mage.
+agar kami bisa menangkap penyihir astral ini.
 
 99
 00:07:18,500 --> 00:07:23,290
-Oh, man. Iska, you've been set up
-by the Eight Great Apostles.
+Oh man. Iska, kamu telah diatur 
+oleh Delapan Rasul Agung.
 
 100
 00:07:23,290 --> 00:07:25,160
-How do you mean?
+Bagaimana maksudmu?
 
 101
 00:07:25,160 --> 00:07:29,660
-She first appeared on the northern front
-in Yubel, I believe.
+Dia pertama kali muncul di front utara 
+di Yubel, saya yakin.
 
 102
 00:07:29,660 --> 00:07:33,700
-I hear she broke through the line
-and made it back all by herself.
+Saya mendengar dia menerobos garis 
+dan berhasil kembali sendirian.
 
 103
 00:07:33,700 --> 00:07:35,450
-In light of her military record since then,
+Mengingat catatan militernya sejak itu,
 
 104
 00:07:35,450 --> 00:07:38,790
-some people say that she's the most
-powerful astral mage in history.
+beberapa orang mengatakan bahwa dia adalah 
+penyihir astral terkuat dalam sejarah.
 
 105
 00:07:38,790 --> 00:07:42,700
-Yeah. But she doesn't know about
-our soldier, Iska, either.
+Ya. Tapi dia juga tidak tahu tentang 
+tentara kita, Iska.
 
 106
 00:07:42,700 --> 00:07:47,450
-For better or worse, the Nebulis Sovereignty
-has no intel on you either.
+Baik atau buruk, Kedaulatan Nebulis 
+tidak memiliki informasi tentang Anda.
 
 107
 00:07:47,450 --> 00:07:50,540
-In their view, you are someone
-completely unexpected.
+Dalam pandangan mereka, Anda adalah seseorang yang 
+sama sekali tidak terduga.
 
 108
 00:07:50,540 --> 00:07:55,040
-That's right! Iska was imprisoned
-right after he became a Saint Disciple.
+Tepat sekali! Iska dipenjara 
+tepat setelah dia menjadi Murid Suci.
 
 109
 00:07:55,040 --> 00:07:57,000
-Right. Which means...
+Baik. Yang berarti...
 
 110
 00:07:57,000 --> 00:07:58,500
-...their guard will be down?
+... penjagaan mereka akan turun?
 
 111
 00:07:58,500 --> 00:08:01,160
-That's what the bigwigs are probably thinking.
+Itulah yang mungkin dipikirkan para petinggi.
 
 112
 00:08:01,160 --> 00:08:05,200
-That being said, they're turning to you now
-after throwing you in prison,
+Karena itu, mereka berbalik kepada Anda sekarang 
+setelah menjebloskan Anda ke penjara,
 
 113
 00:08:05,200 --> 00:08:08,790
-so even they must be at
-a complete loss as to what to do.
+jadi bahkan mereka pasti sama 
+sekali tidak tahu apa yang harus dilakukan.
 
 114
 00:08:08,790 --> 00:08:11,080
-The Ice Calamity Witch, huh?
+Penyihir Bencana Es, huh?
 
 115
 00:08:11,080 --> 00:08:14,580
-Iska, are you really going
-to carry out this mission?
+Iska, apa kamu benar-benar akan 
+menjalankan misi ini?
 
 116
 00:08:14,580 --> 00:08:18,120
-Of course. This is my big chance, after all.
+Tentu saja. Ini adalah kesempatan besar saya.
 
 117
 00:08:18,120 --> 00:08:20,750
-If you fail this mission, you'll be...
+Jika Anda gagal dalam misi ini, Anda akan ...
 
 118
 00:08:20,750 --> 00:08:23,950
-I'm trying not to think about that.
+Saya mencoba untuk tidak memikirkannya.
 
 119
 00:08:23,950 --> 00:08:27,370
-I'd like to put a stop to this hopeless war.
+Saya ingin menghentikan perang tanpa harapan ini.
 
 120
 00:08:27,370 --> 00:08:31,450
-That's all I've thought about, both now...
+Itu saja yang aku pikirkan, sekarang ...
 
 121
 00:08:31,450 --> 00:08:32,790
-...and a year ago.
+... dan setahun yang lalu.
 
 122
 00:08:40,080 --> 00:08:43,080
-This weapons reactor is brand new, isn't it?
+Reaktor senjata ini masih baru, bukan?
 
 123
 00:08:43,080 --> 00:08:44,700
-I believe so.
+Saya yakin begitu.
 
 124
 00:08:44,700 --> 00:08:46,080
-I wonder why.
+Kenapa ya.
 
 125
 00:08:46,080 --> 00:08:49,950
-They have such a large reactor,
-but so few troops deployed here.
+Mereka memiliki reaktor yang 
+begitu besar, tetapi sangat sedikit pasukan yang ditempatkan di sini.
 
 126
 00:08:49,950 --> 00:08:52,750
---Ah, that's likely--
---I'm back!
+--Ah, itu 
+mungkin-- --Aku kembali!
 
 127
 00:08:52,750 --> 00:08:56,620
-Whoa, you startled me.
-Nene, don't surprise me like that.
+Whoa, kamu mengejutkanku. 
+Nene, jangan mengejutkanku seperti itu.
 
 128
 00:08:57,620 --> 00:09:00,080
-I'm all finished checking the transport back in.
+Aku sudah selesai memeriksa transportasi kembali.
 
 129
 00:09:00,080 --> 00:09:03,540
-I also spotted the commanding officer
-in that tent over there.
+Saya juga melihat komandan 
+di tenda di sana.
 
 130
 00:09:03,540 --> 00:09:06,040
-Word is that this reactor isn't yet finished.
+Kabarnya reaktor ini belum selesai.
 
 131
 00:09:06,040 --> 00:09:09,160
-Since there have been a lot of
-astral mages strikes lately,
+Karena ada banyak 
+penyihir astral yang menyerang belakangan ini,
 
 132
 00:09:09,160 --> 00:09:13,080
-their manpower is busy defending
-the front instead of finishing up here.
+tenaga mereka sibuk mempertahankan 
+bagian depan daripada menyelesaikannya di sini.
 
 133
 00:09:13,080 --> 00:09:16,700
-I figured. That's the reason why
-there are so few people here, too.
+Saya pikir. Itulah alasan mengapa hanya 
+ada sedikit orang di sini.
 
 134
 00:09:16,700 --> 00:09:22,370
-I thought it was strange. It's shuddering
-too much while it's running,
+Saya pikir itu aneh. 
+Terlalu gemetar saat dijalankan,
 
 135
 00:09:22,370 --> 00:09:25,040
-and there's a lot of rumble
-in its operating hum.
+dan ada banyak gemuruh 
+dalam dengungan operasinya.
 
 136
 00:09:25,040 --> 00:09:28,580
-Wow, that's our Nene for you!
-Such a first-rate engineer!
+Wow, itu Nene kami untukmu! 
+Benar-benar insinyur kelas satu!
 
 137
 00:09:28,580 --> 00:09:32,250
-Also, check out the color and smell
-of the steam from the exhaust vent!
+Periksa juga warna dan bau 
+uap dari ventilasi knalpot!
 
 138
 00:09:32,250 --> 00:09:34,290
-The pressure unit is running,
+Unit tekanan sedang bekerja,
 
 139
 00:09:34,290 --> 00:09:37,410
-but the control ring is just about
-at its threshold--
+tapi cincin kendali hampir 
+mencapai ambangnya--
 
 140
 00:09:35,660 --> 00:09:37,410
-It's a vicious cycle.
+Ini lingkaran setan.
 
 141
 00:09:37,410 --> 00:09:39,750
-The Empire builds a reactor.
+Kekaisaran membangun reaktor.
 
 142
 00:09:39,750 --> 00:09:42,790
-Then the Sovereignty launches
-a strike to destroy it.
+Kemudian Kedaulatan meluncurkan 
+serangan untuk menghancurkannya.
 
 143
 00:09:42,790 --> 00:09:44,580
-So we build more weapons.
+Jadi kami membuat lebih banyak senjata.
 
 144
 00:09:44,580 --> 00:09:48,450
-After repeating the cycle for a hundred years,
-this is the world we have.
+Setelah mengulang siklus selama seratus tahun, 
+inilah dunia yang kita miliki.
 
 145
 00:09:48,450 --> 00:09:51,500
-That's what Master would always regurgitate.
+Itulah yang Guru selalu muntahkan.
 
 146
 00:09:51,500 --> 00:09:53,580
-Whatever triggered this war,
+Apapun yang memicu perang ini,
 
 147
 00:09:53,580 --> 00:09:57,870
-the reasons that keep dragging it on
-now are emotionally charged.
+alasan yang terus menyeretnya 
+sekarang adalah emosional.
 
 148
 00:09:57,870 --> 00:10:00,500
-After coming this far, logic won't stop it.
+Setelah sampai sejauh ini, logika tidak akan menghentikannya.
 
 149
 00:10:00,500 --> 00:10:05,410
-Not unless someone forcibly puts an end to it,
-even if it means being hated.
+Tidak, kecuali seseorang dengan paksa mengakhirinya, 
+meskipun itu berarti dibenci.
 
 150
 00:10:05,410 --> 00:10:07,830
-Puts an end to it, huh?
+Mengakhiri itu, ya?
 
 151
 00:10:07,830 --> 00:10:11,580
-The peace talks that a certain someone
-is thinking is one option--
+Perundingan damai yang 
+dipikirkan seseorang adalah salah satu pilihan--
 
 152
 00:10:11,580 --> 00:10:13,870
-whether it would work or not
-is a separate matter.
+apakah itu akan berhasil atau tidak 
+adalah masalah yang terpisah.
 
 153
 00:10:19,450 --> 00:10:22,200
-Okay, acknowledged.
+Oke, diakui.
 
 154
 00:10:22,200 --> 00:10:23,330
-What is it?
+Apa itu?
 
 155
 00:10:23,330 --> 00:10:24,910
-That was a unit at the front.
+Itu adalah unit di depan.
 
 156
 00:10:24,910 --> 00:10:28,040
-They said they aren't engaging
-any astral power forces at the moment.
+Mereka mengatakan mereka tidak sedang 
+menggunakan kekuatan astral apa pun saat ini.
 
 157
 00:10:28,040 --> 00:10:30,160
-They're expecting our rendezvous.
+Mereka mengharapkan pertemuan kita.
 
 158
 00:10:33,910 --> 00:10:37,250
-Nene, d-drive more safely!
+Nene, d-drive lebih aman!
 
 159
 00:10:37,250 --> 00:10:39,200
-It's all right, it's all right.
+Tidak apa-apa, tidak apa-apa.
 
 160
 00:10:39,200 --> 00:10:41,910
-I could drive one of these
-with one eye closed, no problem.
+Saya bisa mengendarai salah satunya 
+dengan satu mata tertutup, tidak masalah.
 
 161
 00:10:41,910 --> 00:10:44,580
-I'm begging you, please keep your eyes open!
+Aku mohon, tolong buka matamu!
 
 162
 00:10:44,580 --> 00:10:45,450
-Jump!
+Melompat!
 
 163
 00:10:46,200 --> 00:10:48,330
-Captain, hold on to me!
+Kapten, pegang aku!
 
 164
 00:10:56,200 --> 00:10:58,120
-Was that a Nebulis astral power force?
+Apakah itu kekuatan kekuatan astral Nebulis?
 
 165
 00:10:58,120 --> 00:11:01,040
-No way! This is still Imperial territory!
+Tidak mungkin! Ini masih wilayah Kekaisaran!
 
 166
 00:11:01,040 --> 00:11:03,370
-They broke through our front-line defenses.
+Mereka menerobos pertahanan garis depan kami.
 
 167
 00:11:03,370 --> 00:11:05,620
-There's probably a powerful astral mage around.
+Mungkin ada penyihir astral yang kuat di sekitar.
 
 168
 00:11:05,620 --> 00:11:06,870
-Incoming message.
+Pesan masuk.
 
 169
 00:11:06,870 --> 00:11:11,120
-It's a general request for backup from
-the Nelka force communications team.
+Ini adalah permintaan umum untuk cadangan dari 
+tim komunikasi pasukan Nelka.
 
 170
 00:11:11,120 --> 00:11:14,410
-No time to waste, is there?
-We still have our sneak attack,
+Tidak ada waktu untuk disia-siakan, bukan? 
+Kami masih memiliki serangan diam-diam kami,
 
 171
 00:11:14,410 --> 00:11:17,410
-but there's a battalion of astral mages
-closing in at a furious pace.
+tapi ada batalion penyihir astral yang 
+mendekat dengan kecepatan tinggi.
 
 172
 00:11:17,410 --> 00:11:18,700
-Jhin, behind you!
+Jhin, di belakangmu!
 
 173
 00:11:33,080 --> 00:11:35,620
-He just cut through astral power flames?
+Dia baru saja memotong api kekuatan astral?
 
 174
 00:11:35,620 --> 00:11:38,700
-T-Two astral mages! Everyone, watch yourselves!
+T-Dua penyihir astral! Semuanya, jaga dirimu!
 
 175
 00:11:38,700 --> 00:11:41,700
-We know. And don't shout out orders like that.
+Kita tahu. Dan jangan meneriakkan perintah seperti itu.
 
 176
 00:11:41,700 --> 00:11:43,410
-They'll know in a second who the boss is.
+Mereka akan segera tahu siapa bosnya.
 
 177
 00:11:43,410 --> 00:11:45,040
-Just worry about yourself instead.
+Khawatir saja tentang diri Anda sendiri.
 
 178
 00:11:45,040 --> 00:11:47,370
-I don't need your backtalk, either!
+Aku juga tidak butuh ucapan balikmu!
 
 179
 00:11:47,370 --> 00:11:48,830
-Then stand back.
+Kemudian mundur.
 
 180
 00:11:52,040 --> 00:11:54,040
-Wind astral mages.
+Penyihir astral angin.
 
 181
 00:12:00,790 --> 00:12:02,250
-When did they...?!
+Kapan mereka ...?!
 
 182
 00:12:02,250 --> 00:12:06,250
-I guess there's no presence to detect
-when they burrow underground.
+Saya kira tidak ada kehadiran untuk dideteksi 
+ketika mereka menggali di bawah tanah.
 
 183
 00:12:06,250 --> 00:12:10,120
-That's a large-scale spell.
-They have a fairly powerful astral mage.
+Itu mantra skala besar. 
+Mereka memiliki astral mage yang cukup kuat.
 
 184
 00:12:10,120 --> 00:12:12,500
-How can you two be so calm?!
+Bagaimana kalian bisa begitu tenang ?!
 
 185
 00:12:12,500 --> 00:12:14,870
-Because we anticipated
-something like this happening.
+Karena kami mengantisipasi 
+hal seperti ini terjadi.
 
 186
 00:12:14,870 --> 00:12:16,750
-Iska, can you cut through them all?
+Iska, bisakah kamu memotong semuanya?
 
 187
 00:12:16,750 --> 00:12:20,500
-Once I get my intuition back.
-Right now, it would be a bit difficult.
+Begitu saya mendapatkan intuisi saya kembali. 
+Saat ini, akan agak sulit.
 
 188
 00:12:20,500 --> 00:12:21,500
-Which means,
+Yang berarti,
 
 189
 00:12:21,500 --> 00:12:24,290
-I'll need to ask for your help, Nene.
+Saya perlu meminta bantuan Anda, Nene.
 
 190
 00:12:24,290 --> 00:12:25,410
-Roger that!
+Diterima!
 
 191
 00:12:26,450 --> 00:12:29,750
-Anti-astral-power flares... deploy!
+Flare anti-astral-power ... luncurkan!
 
 192
 00:12:41,120 --> 00:12:42,580
-You take the right.
+Anda mengambil hak.
 
 193
 00:12:46,830 --> 00:12:49,250
-Astral power of raging inferno...!
+Kekuatan astral dari neraka yang mengamuk ...!
 
 194
 00:12:52,870 --> 00:12:54,120
-Burst forth!
+Burst maju!
 
 195
 00:13:03,040 --> 00:13:05,830
-You jumped out of range?
+Anda melompat keluar dari jangkauan?
 
 196
 00:13:05,830 --> 00:13:08,040
-There's no way you could do that!
+Tidak mungkin Anda bisa melakukan itu!
 
 197
 00:13:09,620 --> 00:13:12,500
-That's what the training I underwent was for.
+Untuk itulah saya menjalani pelatihan.
 
 198
 00:13:16,040 --> 00:13:17,700
-Jhin, how are you coming along?
+Jhin, bagaimana kabarmu?
 
 199
 00:13:17,700 --> 00:13:18,790
-All done.
+Semua selesai.
 
 200
 00:13:19,790 --> 00:13:24,830
-Amazing. Jhin and Iska,
-you never fail to impress.
+Luar biasa. Jhin dan Iska, 
+Anda tidak pernah gagal untuk mengesankan.
 
 201
 00:13:24,830 --> 00:13:29,540
-A year ago, we might've left everything
-to Iska and gone on ahead without him.
+Setahun yang lalu, kami mungkin telah menyerahkan segalanya 
+kepada Iska dan terus berjalan tanpa dia.
 
 202
 00:13:29,540 --> 00:13:32,330
-You're an anti-war berserker, was it?
+Anda seorang pengamuk anti-perang, bukan?
 
 203
 00:13:36,330 --> 00:13:38,330
-Earth astral power?
+Kekuatan astral bumi?
 
 204
 00:13:38,330 --> 00:13:42,000
-A golem. And one that can
-generate quickly, too.
+Golem. Dan yang bisa 
+menghasilkan dengan cepat juga.
 
 205
 00:13:43,370 --> 00:13:48,500
-How peculiar. You dealt with that unit
-before I even arrived?
+Aneh sekali. Anda berurusan dengan unit itu 
+bahkan sebelum saya tiba?
 
 206
 00:13:48,500 --> 00:13:51,040
-By all appearances,
-you're just an ordinary squad.
+Dari semua penampilan, 
+Anda hanyalah pasukan biasa.
 
 207
 00:13:51,040 --> 00:13:52,120
-Come to life.
+Hidup kembali.
 
 208
 00:14:02,160 --> 00:14:04,700
-Captain, I'll take care of this.
+Kapten, aku akan urus ini.
 
 209
 00:14:04,700 --> 00:14:07,290
-Please take Jhin and Nene
-and go offer some support.
+Tolong bawa Jhin dan Nene 
+dan tawarkan bantuan.
 
 210
 00:14:07,290 --> 00:14:09,410
-Huh? But...
+Hah? Tapi...
 
 211
 00:14:09,410 --> 00:14:12,870
-We'll spend just as much time
-with all four of us being here.
+Kami akan menghabiskan banyak waktu 
+dengan kami berempat berada di sini.
 
 212
 00:14:12,870 --> 00:14:15,370
-All right. Be careful!
+Baiklah. Hati-hati!
 
 213
 00:14:20,000 --> 00:14:21,750
-It regenerated?
+Itu dibuat ulang?
 
 214
 00:14:28,200 --> 00:14:31,330
-You sliced through my astral arts?
-Are you a Saint Disciple?!
+Anda memotong seni astral saya? 
+Apakah Anda seorang Murid Suci ?!
 
 215
 00:14:31,330 --> 00:14:32,750
-I have no intention of answering that.
+Saya tidak punya niat untuk menjawab itu.
 
 216
 00:14:32,750 --> 00:14:37,160
-But I will if you tell me where the astral
-mage called the Ice Calamity Witch is.
+Tapi saya akan jika Anda memberi tahu saya di mana 
+penyihir astral yang disebut Penyihir Bencana Es berada.
 
 217
 00:14:37,160 --> 00:14:42,290
-Silence, you grunt! I will not allow you
-to even look upon her!
+Diam, kamu mendengus! Aku tidak akan mengizinkanmu 
+untuk melihatnya!
 
 218
 00:14:42,290 --> 00:14:46,540
-I suppose you wouldn't. But I have business
-with the Ice Calamity Witch!
+Saya kira Anda tidak akan melakukannya. Tapi aku punya urusan 
+dengan Penyihir Bencana Es!
 
 219
 00:14:46,540 --> 00:14:48,080
-You can forget it!
+Anda bisa melupakannya!
 
 220
 00:14:56,160 --> 00:14:57,700
-Too slow.
+Terlalu lambat.
 
 221
 00:14:57,700 --> 00:14:59,870
-Who the hell are you?
+Siapa kamu?
 
 222
 00:14:59,870 --> 00:15:01,750
-Where is the Ice Calamity Witch?
+Dimana Penyihir Bencana Es?
 
 223
 00:15:01,750 --> 00:15:06,700
-Kill me. We astral mages will
-have nothing to do with Imperial dogs.
+Bunuh aku. Kami penyihir astral tidak akan 
+ada hubungannya dengan anjing Kekaisaran.
 
 224
 00:15:06,700 --> 00:15:09,950
-We're prepared to choose death
-rather than become your prisoners.
+Kami siap untuk memilih kematian 
+daripada menjadi tawanan Anda.
 
 225
 00:15:13,540 --> 00:15:16,200
-Did you think threatening me
-with your sword would rattle me?
+Apakah menurut Anda mengancam saya 
+dengan pedang Anda akan menggetarkan saya?
 
 226
 00:15:16,200 --> 00:15:18,080
-I'm up for close-quarters combat, too.
+Saya juga siap untuk pertempuran jarak dekat.
 
 227
 00:15:18,080 --> 00:15:19,250
-Away with you!
+Pergi bersamamu!
 
 228
 00:15:21,500 --> 00:15:23,200
-I-Impossible...
+A-Mustahil ...
 
 229
 00:15:30,910 --> 00:15:32,200
-Lady Alice...
+Nyonya Alice ...
 
 230
 00:15:32,200 --> 00:15:35,200
-Alice? Don't tell me you're
-the Ice Calamity...
+Alice? Jangan bilang kamu adalah 
+Bencana Es ...
 
 231
 00:15:35,200 --> 00:15:36,370
-Yes.
+Iya.
 
 232
 00:15:42,200 --> 00:15:44,160
-That is my name.
+Itu namaku.
 
 233
 00:15:45,750 --> 00:15:49,040
-Let me prove it. You can experience it yourself.
+Biar saya buktikan. Anda bisa mengalaminya sendiri.
 
 234
 00:15:50,500 --> 00:15:52,120
-Great Ice Calamity.
+Bencana Es Besar.
 
 235
 00:16:04,250 --> 00:16:06,000
-Rin, are you all right?
+Rin, kamu baik-baik saja?
 
 236
 00:16:06,000 --> 00:16:07,620
-Lady Alice.
+Nyonya Alice.
 
 237
 00:16:11,040 --> 00:16:13,080
-You're joking...
+Kamu bercanda...
 
 238
 00:16:13,080 --> 00:16:14,700
-Please be careful.
+Tolong hati-hati.
 
 239
 00:16:14,700 --> 00:16:18,660
-That man's sword can slice through
-and block astral arts.
+Pedang pria itu dapat mengiris 
+dan memblokir seni astral.
 
 240
 00:16:18,660 --> 00:16:22,500
-Thank you, Rin. You did well to stall him.
+Terima kasih, Rin. Anda melakukannya dengan baik untuk menghentikannya.
 
 241
 00:16:22,500 --> 00:16:23,620
-Stall?
+Kios?
 
 242
 00:16:27,450 --> 00:16:29,540
-The reactor!
+Reaktornya!
 
 243
 00:16:29,540 --> 00:16:31,120
-Shatter away.
+Hancurkan.
 
 244
 00:16:33,580 --> 00:16:35,910
-So this was your plan all along?
+Jadi ini rencanamu selama ini?
 
 245
 00:16:35,910 --> 00:16:37,290
-Who are you?
+Kamu siapa?
 
 246
 00:16:37,290 --> 00:16:40,410
-How could someone who's not
-a Saint Disciple overpower Rin?
+Bagaimana seseorang yang bukan 
+Saint Disciple bisa mengalahkan Rin?
 
 247
 00:16:40,410 --> 00:16:42,620
-I'm here to capture you.
+Saya di sini untuk menangkap Anda.
 
 248
 00:16:42,620 --> 00:16:44,870
-Who do you think you're talking to?
+Kamu pikir kamu sedang berbicara dengan siapa?
 
 249
 00:16:44,870 --> 00:16:48,950
-If you don't want to feel an icy pain
-that is far worse than death, then...
+Jika Anda tidak ingin merasakan sakit sedingin es 
+yang jauh lebih buruk dari kematian, maka ...
 
 250
 00:16:48,950 --> 00:16:50,580
-Surrender.
+Menyerah.
 
 251
 00:16:51,580 --> 00:16:55,000
-Swordsman of the Empire, what is your name?
+Swordsman of the Empire, siapa namamu?
 
 252
 00:16:55,000 --> 00:16:57,250
-Iska. And yours?
+Iska. Dan punya anda?
 
 253
 00:16:57,250 --> 00:16:59,910
-Aliceliese Lou Nebulis IX.
+Awan Aliceliese Lou 9.
 
 254
 00:16:59,910 --> 00:17:01,950
-And you already know
+Dan kamu sudah tahu
 
 255
 00:17:01,950 --> 00:17:06,500
-that I am the astral mage you Imperials
-call the "Ice Calamity Witch."
+bahwa aku adalah penyihir astral yang para Imperial 
+sebut sebagai "Penyihir Bencana Es".
 
 256
 00:17:12,000 --> 00:17:13,910
-Walls, crush forward!
+Dinding, hancurkan ke depan!
 
 257
 00:17:17,660 --> 00:17:20,450
-Ice Calamity: Thousand Thorn Blizzard!
+Bencana Es: Badai Salju Seribu Duri!
 
 258
 00:17:23,450 --> 00:17:24,580
-Pierce through!
+Menembus!
 
 259
 00:17:35,410 --> 00:17:37,540
-That's the best you can do?
+Itu yang terbaik yang bisa kamu lakukan?
 
 260
 00:17:37,540 --> 00:17:39,160
-No...
+Tidak...
 
 261
 00:17:39,160 --> 00:17:40,370
-Awaken.
+Membangkitkan.
 
 262
 00:17:46,410 --> 00:17:50,290
-He can use the same astral art
-as Lady Alice?! Who are you?!
+Dia bisa menggunakan seni astral yang sama 
+dengan Lady Alice ?! Kamu siapa?!
 
 263
 00:17:50,290 --> 00:17:53,750
-This is the astral swords' power, not mine.
+Ini adalah kekuatan pedang astral, bukan milikku.
 
 264
 00:17:56,080 --> 00:17:57,120
-Ice Blossom.
+Bunga Es.
 
 265
 00:18:01,250 --> 00:18:04,500
-It's an impenetrable shield. You should give up.
+Itu perisai yang tidak bisa ditembus. Anda harus menyerah.
 
 266
 00:18:04,500 --> 00:18:06,580
-Give up?
+Menyerah?
 
 267
 00:18:06,580 --> 00:18:10,790
-If I give up here,
-who'll put a stop to this war?!
+Jika saya menyerah di sini, 
+siapa yang akan menghentikan perang ini ?!
 
 268
 00:18:16,830 --> 00:18:17,910
-Vines!
+Vine!
 
 269
 00:18:27,250 --> 00:18:29,950
-Lady Alice stepped back?
+Lady Alice mundur?
 
 270
 00:18:29,950 --> 00:18:32,870
-So persistent. Surrender or fall!
+Sangat gigih. Menyerah atau jatuh!
 
 271
 00:18:32,870 --> 00:18:34,450
-Why don't you retreat instead?!
+Kenapa kamu tidak mundur saja ?!
 
 272
 00:18:34,450 --> 00:18:38,870
-I will not retreat until I defeat
-the Empire and unite the world.
+Saya tidak akan mundur sampai saya mengalahkan 
+Kekaisaran dan menyatukan dunia.
 
 273
 00:18:38,870 --> 00:18:40,830
-Unite the world?
+Satukan dunia?
 
 274
 00:18:40,830 --> 00:18:43,790
-An everlasting peace.
-No invasion, no persecution...
+Kedamaian abadi. 
+Tidak ada invasi, tidak ada penganiayaan ...
 
 275
 00:18:43,790 --> 00:18:49,200
-That is what I,
-heir to the Nebulis Sovereignty, Aliceliese--
+Itulah yang aku, 
+pewaris Kedaulatan Nebulis, Aliceliese--
 
 276
 00:18:58,830 --> 00:19:01,290
-Y-You okay?
+K-Kamu baik-baik saja?
 
 277
 00:19:01,290 --> 00:19:04,000
-Y-Yes, thank you.
+Y-Ya terima kasih.
 
 278
 00:19:09,910 --> 00:19:12,950
-Wait, wh-wh-wh-wh-wh-wh-wh-what
-do you think you're doing?!
+Tunggu, a-a-a-a-a-a-a-a-apa-apa 
+yang kamu lakukan ?!
 
 279
 00:19:12,950 --> 00:19:14,160
-It was reflex...
+Itu refleks ...
 
 280
 00:19:14,160 --> 00:19:15,870
@@ -1215,16 +1215,16 @@ Iska!
 
 281
 00:19:20,330 --> 00:19:22,120
-Rin, we shall retreat.
+Rin, kita akan mundur.
 
 282
 00:19:22,120 --> 00:19:24,330
-B-But Lady Alice?!
+T-Tapi Nyonya Alice ?!
 
 283
 00:19:29,540 --> 00:19:33,450
-Iska, was it? Do not think
-you will get so lucky next time.
+Iska, benarkah? Jangan berpikir 
+Anda akan seberuntung itu lain kali.
 
 284
 00:19:42,540 --> 00:19:44,120
@@ -1232,152 +1232,152 @@ Iska!
 
 285
 00:19:45,120 --> 00:19:47,830
-I'm so glad you're safe!
+Saya sangat senang Anda aman!
 
 286
 00:19:47,830 --> 00:19:50,870
-You had me worried!
+Anda membuat saya khawatir!
 
 287
 00:19:50,870 --> 00:19:53,200
-Are you okay? Are you injured?
+Apakah kamu baik-baik saja? Apakah kamu terluka?
 
 288
 00:19:53,200 --> 00:19:56,660
-Hugging a possibly injured subordinate
-might not be a good idea...
+Memeluk bawahan yang mungkin terluka 
+mungkin bukan ide yang bagus ...
 
 289
 00:19:56,660 --> 00:19:58,500
-Oh, sorry!
+Oh maaf!
 
 290
 00:19:58,500 --> 00:20:02,120
-Hey, Jhin. Is this really from an astral art?
+Hei, Jhin. Apakah ini benar-benar dari seni astral?
 
 291
 00:20:02,120 --> 00:20:06,000
-The rumors were true. Looks like she's
-an extraordinary astral mage.
+Rumor itu benar. Sepertinya dia 
+penyihir astral yang luar biasa.
 
 292
 00:20:06,000 --> 00:20:09,790
-The ice made it all the way near
-our rendezvous point on the frontlines.
+Es berhasil mencapai 
+titik pertemuan kami di garis depan.
 
 293
 00:20:26,200 --> 00:20:30,080
-Lady Alice, have you been
-bathing this whole time?
+Nyonya Alice, apakah Anda sudah 
+mandi selama ini?
 
 294
 00:20:30,080 --> 00:20:32,410
-Let's get out of the bath.
+Ayo keluar dari kamar mandi.
 
 295
 00:20:44,080 --> 00:20:48,160
-If I give up here,
-who'll put a stop to this war?!
+Jika saya menyerah di sini, 
+siapa yang akan menghentikan perang ini ?!
 
 296
 00:20:54,080 --> 00:20:56,410
-Ugh, this isn't doing me any good!
+Ugh, ini tidak ada gunanya bagiku!
 
 297
 00:20:56,410 --> 00:20:58,950
-I need a change of scenery!
+Saya butuh perubahan pemandangan!
 
 298
 00:20:58,950 --> 00:21:00,540
-Lady Alice?
+Nyonya Alice?
 
 299
 00:21:04,370 --> 00:21:06,500
-Hey, Rin, look.
+Hei, Rin, lihat.
 
 300
 00:21:06,500 --> 00:21:10,370
-"Tragic love of female knight Beatrix."
+"Cinta tragis dari ksatria wanita Beatrix."
 
 301
 00:21:10,370 --> 00:21:14,080
-You want to go to the opera house
-in Neutral City again?
+Anda ingin pergi ke gedung opera 
+di Neutral City lagi?
 
 302
 00:21:17,040 --> 00:21:22,120
-Good bye, Beatrix. I cannot be with you.
+Selamat tinggal, Beatrix. Aku tidak bisa bersamamu
 
 303
 00:21:17,700 --> 00:21:22,120
-Oh, Beatrix! To fall in love
-with an enemy knight...
+Oh, Beatrix! Untuk jatuh cinta 
+dengan kesatria musuh ...
 
 304
 00:21:22,120 --> 00:21:26,040
-♬ Good bye, Azel. ♬
+♬ Selamat tinggal, Azel. ♬
 
 305
 00:21:22,120 --> 00:21:26,040
-A forbidden love that will never bear fruit,
-no matter how strong the love.
+Cinta terlarang yang tidak akan pernah menghasilkan buah, 
+tidak peduli seberapa kuat cinta itu.
 
 306
 00:21:26,040 --> 00:21:29,540
-How can there be such pained love?
+Bagaimana bisa ada cinta yang begitu pedih?
 
 307
 00:21:26,040 --> 00:21:29,540
-♬ When we meet again, it will not be in
-a church like tonight, but on a battlefield. ♬
+♬ Saat kita bertemu lagi, itu tidak akan terjadi di 
+gereja seperti malam ini, tapi di medan perang. ♬
 
 308
 00:21:29,540 --> 00:21:33,750
-Azel, you're such an idiot... How could you...
+Azel, kamu benar-benar idiot ... Bagaimana bisa kamu ...
 
 309
 00:21:33,750 --> 00:21:35,950
-Shhh, please keep it down.
+Ssst, harap tenang.
 
 310
 00:21:35,950 --> 00:21:37,870
-Where is your handkerchief?
+Dimana saputanganmu?
 
 311
 00:21:37,870 --> 00:21:41,000
-It's already soaking wet.
+Ini sudah basah kuyup.
 
 312
 00:21:41,000 --> 00:21:43,160
-Um, why don't you take this?
+Um, kenapa kamu tidak mengambil ini?
 
 313
 00:21:43,160 --> 00:21:46,830
-Huh? Thank you so much.
+Hah? Terima kasih banyak.
 
 314
 00:21:58,330 --> 00:22:01,750
-Um, I apologize for getting
-your handkerchief wet.
+Um, aku minta maaf karena 
+sapu tanganmu basah.
 
 315
 00:22:01,750 --> 00:22:03,870
-I would like to pay for it.
+Saya ingin membayarnya.
 
 316
 00:22:03,870 --> 00:22:06,000
-Oh no, please don't worry.
+Oh tidak, jangan khawatir.
 
 317
 00:22:06,000 --> 00:22:07,870
-It's just a cheap handker--
+Itu hanya handker murah--
 
 318
 00:22:13,540 --> 00:22:14,870
-Huh?
+Hah?
 
 319
 00:22:16,040 --> 00:22:19,940
-The Encounter of the Two Nations'
-Ultimate Weapons
+Pertemuan 
+Senjata Utama Dua Bangsa
 
