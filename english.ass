@@ -1,0 +1,332 @@
+﻿[Script Info]
+Title: Erai-raws
+ScriptType: v4.00+
+WrapStyle: 0
+PlayResX: 1280
+PlayResY: 720
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Open Sans Semibold,45,&H00FFFFFF,&H000000FF,&H00020713,&H00000000,-1,0,0,0,100,100,0,0,1,1.7,0,2,10,10,25,1
+
+[Events]
+Format: Layer, Start, End, Style, Actor, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:11.25,0:00:15.58,Default,,0,0,0,,Astral power, the strange energy\Nthat slumbers within this planet.
+Dialogue: 0,0:00:16.58,0:00:19.54,Default,,0,0,0,,Its power was too strong for humanity.
+Dialogue: 0,0:00:21.91,0:00:26.20,Default,,0,0,0,,Those in whom astral power dwells\Nwere feared as witches or mages,
+Dialogue: 0,0:00:26.20,0:00:31.08,Default,,0,0,0,,and were oppressed... by those in the Empire.
+Dialogue: 0,0:00:36.20,0:00:41.70,Default,,0,0,0,,A place where many people have been harmed\Nby astral power--the Empire.
+Dialogue: 0,0:00:41.70,0:00:47.45,Default,,0,0,0,,A paradise left to the innocent witches--\Nthe Nebulis Sovereignty.
+Dialogue: 0,0:00:47.45,0:00:50.16,Default,,0,0,0,,The fate that brought these\Ntwo nations to this point...
+Dialogue: 0,0:00:50.16,0:00:52.91,Default,,0,0,0,,...is a never-ending road through war.
+Dialogue: 0,0:00:52.91,0:00:55.58,Default,,0,0,0,,I'm going to bring this war to an end.
+Dialogue: 0,0:00:58.66,0:01:01.66,Default,,0,0,0,,I will establish a world without persecution.
+Dialogue: 0,0:01:02.66,0:01:04.08,Default,,0,0,0,,And so,
+Dialogue: 0,0:01:04.08,0:01:08.12,Default,,0,0,0,,the crusade that would change\Nour world had begun.
+Dialogue: 0,0:01:08.12,0:01:09.95,Default,,0,0,0,,{\bord0.25\an8\pos(646,148)\c&H151618&}Our Last Crusade or the Rise of a New World
+Dialogue: 0,0:01:10.21,0:01:14.84,Default,,0,0,0,,{\fad(500,500)\bord0\pos(656,600)}One year earlier
+Dialogue: 0,0:01:41.75,0:01:45.25,Default,,0,0,0,,Your armband... You're a Saint Disciple?
+Dialogue: 0,0:01:49.54,0:01:52.79,Default,,0,0,0,,Why would a Saint Disciple...?
+Dialogue: 0,0:01:52.79,0:01:54.54,Default,,0,0,0,,Quickly. We have to run.
+Dialogue: 0,0:02:02.75,0:02:04.66,Default,,0,0,0,,Here. It's not much, but...
+Dialogue: 0,0:02:06.87,0:02:08.25,Default,,0,0,0,,Now, go on.
+Dialogue: 0,0:02:26.12,0:02:28.20,Default,,0,0,0,,Raise your head.
+Dialogue: 0,0:02:29.20,0:02:32.16,Default,,0,0,0,,Prisoner Iska, age 16.
+Dialogue: 0,0:02:32.16,0:02:35.83,Default,,0,0,0,,You were the youngest in history to be\Ngranted the title of the Saint Disciple.
+Dialogue: 0,0:02:35.83,0:02:42.16,Default,,0,0,0,,However, a year ago, you were sentenced\Nfor breaking out an imprisoned witch.
+Dialogue: 0,0:02:42.16,0:02:45.91,Default,,0,0,0,,This led to your demotion\Nas the Saint Disciple.
+Dialogue: 0,0:02:45.91,0:02:47.87,Default,,0,0,0,,Is this correct?
+Dialogue: 0,0:02:47.87,0:02:48.70,Default,,0,0,0,,Yes.
+Dialogue: 0,0:02:48.70,0:02:52.20,Default,,0,0,0,,As of today, you are released.
+Dialogue: 0,0:02:52.20,0:02:55.79,Default,,0,0,0,,Considering our nation has been at war\Nwith the witches for 100 years,
+Dialogue: 0,0:02:55.79,0:02:59.08,Default,,0,0,0,,your action is of a great crime.
+Dialogue: 0,0:02:59.08,0:03:03.70,Default,,0,0,0,,However, we are providing you\Nwith an opportunity to make amends.
+Dialogue: 0,0:03:03.70,0:03:09.50,Default,,0,0,0,,You are given a mission. Our longtime enemies\Nnow call themselves astral mages.
+Dialogue: 0,0:03:09.50,0:03:11.95,Default,,0,0,0,,You will be taking down a witch.
+Dialogue: 0,0:03:11.95,0:03:14.16,Default,,0,0,0,,Not just any witch.
+Dialogue: 0,0:03:14.16,0:03:17.83,Default,,0,0,0,,She is "purebred," the direct descendant\Nof the Grand Witch Nebulis.
+Dialogue: 0,0:03:17.83,0:03:22.54,Default,,0,0,0,,In the past, the Grand Witch Nebulis\Nhas turned our Empire into a sea of flames.
+Dialogue: 0,0:03:22.54,0:03:25.41,Default,,0,0,0,,Those descendants are called "purebreds,"
+Dialogue: 0,0:03:25.41,0:03:28.95,Default,,0,0,0,,and as you know, harbor great astral power.
+Dialogue: 0,0:03:28.95,0:03:32.16,Default,,0,0,0,,Yes, I have been in many battles with them.
+Dialogue: 0,0:03:32.16,0:03:38.08,Default,,0,0,0,,Your target is one of the most powerful.\NThe "Ice Calamity Witch."
+Dialogue: 0,0:03:38.08,0:03:40.08,Default,,0,0,0,,The Ice Calamity Witch...
+Dialogue: 0,0:03:43.83,0:03:46.41,Default,,0,0,0,,Successor of the Black Steel, Iska.
+Dialogue: 0,0:03:46.41,0:03:49.58,Default,,0,0,0,,From this moment forward, you are free.
+Dialogue: 0,0:03:49.58,0:03:53.50,Default,,0,0,0,,We will provide you with a transit vehicle\Nto the frontlines in 17 hours.
+Dialogue: 0,0:03:53.50,0:03:56.41,Default,,0,0,0,,Anything you need, we will provide.
+Dialogue: 0,0:03:58.00,0:04:01.08,Default,,0,0,0,,There are three members\NI would like on my unit.
+Dialogue: 0,0:04:05.14,0:04:09.85,Default,,0,0,0,,{\an8}"Powder Base"
+Dialogue: 0,0:04:05.62,0:04:08.70,Default,,0,0,0,,Nene, where should we sit?
+Dialogue: 0,0:04:08.70,0:04:12.41,Default,,0,0,0,,Nene, we haven't gotten the food we ordered yet.
+Dialogue: 0,0:04:12.41,0:04:13.87,Default,,0,0,0,,Nene!
+Dialogue: 0,0:04:13.87,0:04:16.04,Default,,0,0,0,,Okay, okay!
+Dialogue: 0,0:04:17.04,0:04:18.95,Default,,0,0,0,,I'm coming!
+Dialogue: 0,0:04:23.12,0:04:24.91,Default,,0,0,0,,Come on in!
+Dialogue: 0,0:04:29.04,0:04:31.58,Default,,0,0,0,,Jhin?!
+Dialogue: 0,0:04:31.58,0:04:34.75,Default,,0,0,0,,I'm glad you're here!\NDid you come to see me?
+Dialogue: 0,0:04:34.75,0:04:37.87,Default,,0,0,0,,We just saw each other not long ago.
+Dialogue: 0,0:04:37.87,0:04:42.33,Default,,0,0,0,,He's been discharged. He's back\Nat the dorm, hurrying to get ready.
+Dialogue: 0,0:04:43.33,0:04:45.37,Default,,0,0,0,,Wait, you're not saying...?
+Dialogue: 0,0:04:45.37,0:04:47.79,Default,,0,0,0,,We depart tomorrow morning at zero hour.
+Dialogue: 0,0:04:47.79,0:04:49.66,Default,,0,0,0,,We're heading for the front in a transport.
+Dialogue: 0,0:04:49.66,0:04:52.70,Default,,0,0,0,,A transport? The front?
+Dialogue: 0,0:04:59.62,0:05:01.54,Default,,0,0,0,,It was the same as the morning sun,
+Dialogue: 0,0:05:01.54,0:05:04.66,Default,,0,0,0,,but it's been a year since I've seen\Nthe stars in the sky like this, too.
+Dialogue: 0,0:05:06.54,0:05:10.00,Default,,0,0,0,,It's four minutes and 30 seconds to muster.
+Dialogue: 0,0:05:10.00,0:05:14.91,Default,,0,0,0,,Jhin! Thanks for your help contacting\Neveryone this afternoon.
+Dialogue: 0,0:05:14.91,0:05:17.70,Default,,0,0,0,,I'm used to your short notice.
+Dialogue: 0,0:05:24.95,0:05:28.45,Default,,0,0,0,,Iska, congrats on your release!
+Dialogue: 0,0:05:29.79,0:05:35.45,Default,,0,0,0,,{\an8}Congrats! Congrats! Congrats!
+Dialogue: 0,0:05:31.75,0:05:35.45,Default,,0,0,0,,Nene, you don't have to jump for joy.
+Dialogue: 0,0:05:35.45,0:05:37.50,Default,,0,0,0,,Ah, looks like the captain is here!
+Dialogue: 0,0:05:37.50,0:05:40.75,Default,,0,0,0,,Hey, Captain!
+Dialogue: 0,0:05:40.75,0:05:44.70,Default,,0,0,0,,G-G-Guys!
+Dialogue: 0,0:05:44.70,0:05:47.25,Default,,0,0,0,,I'm sorry I'm late!
+Dialogue: 0,0:05:50.00,0:05:51.79,Default,,0,0,0,,Ah, she fell down.
+Dialogue: 0,0:05:51.79,0:05:53.66,Default,,0,0,0,,Same old Captain.
+Dialogue: 0,0:05:56.50,0:05:59.08,Default,,0,0,0,,Ah, it's Iska!
+Dialogue: 0,0:05:59.08,0:06:03.45,Default,,0,0,0,,It's been an awfully long time.\NYou've grown a little taller, haven't you?
+Dialogue: 0,0:06:03.45,0:06:06.20,Default,,0,0,0,,--She's just going to ignore falling down...\N--Have I?
+Dialogue: 0,0:06:06.20,0:06:10.29,Default,,0,0,0,,I guess a girl like me is no match\Nwhen it comes to growing tall.
+Dialogue: 0,0:06:10.29,0:06:13.70,Default,,0,0,0,,What do you mean, "girl"?\NYou're well past that age.
+Dialogue: 0,0:06:13.70,0:06:18.08,Default,,0,0,0,,Wh-What are you talking about, Jhin?!\NI'm still 22!
+Dialogue: 0,0:06:20.04,0:06:21.87,Default,,0,0,0,,Still, I'm delighted.
+Dialogue: 0,0:06:21.87,0:06:24.54,Default,,0,0,0,,Iska is ever the nice, sweet boy,
+Dialogue: 0,0:06:24.54,0:06:27.16,Default,,0,0,0,,while Nene has grown\Neven more cute and pretty.
+Dialogue: 0,0:06:27.16,0:06:30.41,Default,,0,0,0,,And today, at least, Jhin's sharp tongue\Nbrings back good memories.
+Dialogue: 0,0:06:30.41,0:06:31.79,Default,,0,0,0,,Hey, hold on...
+Dialogue: 0,0:06:31.79,0:06:36.50,Default,,0,0,0,,Anyhow, Special Defense for Humankind\NThird Division, Unit N07,
+Dialogue: 0,0:06:36.50,0:06:39.00,Default,,0,0,0,,is back together for the first time in a year!
+Dialogue: 0,0:06:43.87,0:06:47.91,Default,,0,0,0,,All right, off we go!
+Dialogue: 0,0:06:49.83,0:06:53.25,Default,,0,0,0,,Okay then, what kind of mission is this?
+Dialogue: 0,0:06:53.25,0:06:57.45,Default,,0,0,0,,Witch suppression.\NThat's all our unit ever does, right?
+Dialogue: 0,0:06:57.45,0:06:59.29,Default,,0,0,0,,What's more, our target on this one
+Dialogue: 0,0:06:59.29,0:07:02.95,Default,,0,0,0,,is a direct descendant\Nof the Grand Witch Nebulis--a purebred.
+Dialogue: 0,0:07:02.95,0:07:04.54,Default,,0,0,0,,A purebred?!
+Dialogue: 0,0:07:04.54,0:07:07.50,Default,,0,0,0,,Boss, you've heard of\Nthe Ice Calamity Witch, right?
+Dialogue: 0,0:07:07.50,0:07:09.83,Default,,0,0,0,,The Ice Calamity Witch?!
+Dialogue: 0,0:07:09.83,0:07:12.08,Default,,0,0,0,,I-Iska, is this true?
+Dialogue: 0,0:07:12.08,0:07:15.50,Default,,0,0,0,,Yes. Apparently, the reason I was released
+Dialogue: 0,0:07:15.50,0:07:18.50,Default,,0,0,0,,was so we could capture this astral mage.
+Dialogue: 0,0:07:18.50,0:07:23.29,Default,,0,0,0,,Oh, man. Iska, you've been set up\Nby the Eight Great Apostles.
+Dialogue: 0,0:07:23.29,0:07:25.16,Default,,0,0,0,,How do you mean?
+Dialogue: 0,0:07:25.16,0:07:29.66,Default,,0,0,0,,She first appeared on the northern front\Nin Yubel, I believe.
+Dialogue: 0,0:07:29.66,0:07:33.70,Default,,0,0,0,,I hear she broke through the line\Nand made it back all by herself.
+Dialogue: 0,0:07:33.70,0:07:35.45,Default,,0,0,0,,In light of her military record since then,
+Dialogue: 0,0:07:35.45,0:07:38.79,Default,,0,0,0,,some people say that she's the most\Npowerful astral mage in history.
+Dialogue: 0,0:07:38.79,0:07:42.70,Default,,0,0,0,,Yeah. But she doesn't know about\Nour soldier, Iska, either.
+Dialogue: 0,0:07:42.70,0:07:47.45,Default,,0,0,0,,For better or worse, the Nebulis Sovereignty\Nhas no intel on you either.
+Dialogue: 0,0:07:47.45,0:07:50.54,Default,,0,0,0,,In their view, you are someone\Ncompletely unexpected.
+Dialogue: 0,0:07:50.54,0:07:55.04,Default,,0,0,0,,That's right! Iska was imprisoned\Nright after he became a Saint Disciple.
+Dialogue: 0,0:07:55.04,0:07:57.00,Default,,0,0,0,,Right. Which means...
+Dialogue: 0,0:07:57.00,0:07:58.50,Default,,0,0,0,,...their guard will be down?
+Dialogue: 0,0:07:58.50,0:08:01.16,Default,,0,0,0,,That's what the bigwigs are probably thinking.
+Dialogue: 0,0:08:01.16,0:08:05.20,Default,,0,0,0,,That being said, they're turning to you now\Nafter throwing you in prison,
+Dialogue: 0,0:08:05.20,0:08:08.79,Default,,0,0,0,,so even they must be at\Na complete loss as to what to do.
+Dialogue: 0,0:08:08.79,0:08:11.08,Default,,0,0,0,,The Ice Calamity Witch, huh?
+Dialogue: 0,0:08:11.08,0:08:14.58,Default,,0,0,0,,Iska, are you really going\Nto carry out this mission?
+Dialogue: 0,0:08:14.58,0:08:18.12,Default,,0,0,0,,Of course. This is my big chance, after all.
+Dialogue: 0,0:08:18.12,0:08:20.75,Default,,0,0,0,,If you fail this mission, you'll be...
+Dialogue: 0,0:08:20.75,0:08:23.95,Default,,0,0,0,,I'm trying not to think about that.
+Dialogue: 0,0:08:23.95,0:08:27.37,Default,,0,0,0,,I'd like to put a stop to this hopeless war.
+Dialogue: 0,0:08:27.37,0:08:31.45,Default,,0,0,0,,That's all I've thought about, both now...
+Dialogue: 0,0:08:31.45,0:08:32.79,Default,,0,0,0,,...and a year ago.
+Dialogue: 0,0:08:40.08,0:08:43.08,Default,,0,0,0,,This weapons reactor is brand new, isn't it?
+Dialogue: 0,0:08:43.08,0:08:44.70,Default,,0,0,0,,I believe so.
+Dialogue: 0,0:08:44.70,0:08:46.08,Default,,0,0,0,,I wonder why.
+Dialogue: 0,0:08:46.08,0:08:49.95,Default,,0,0,0,,They have such a large reactor,\Nbut so few troops deployed here.
+Dialogue: 0,0:08:49.95,0:08:52.75,Default,,0,0,0,,--Ah, that's likely--\N--I'm back!
+Dialogue: 0,0:08:52.75,0:08:56.62,Default,,0,0,0,,Whoa, you startled me.\NNene, don't surprise me like that.
+Dialogue: 0,0:08:57.62,0:09:00.08,Default,,0,0,0,,I'm all finished checking the transport back in.
+Dialogue: 0,0:09:00.08,0:09:03.54,Default,,0,0,0,,I also spotted the commanding officer\Nin that tent over there.
+Dialogue: 0,0:09:03.54,0:09:06.04,Default,,0,0,0,,Word is that this reactor isn't yet finished.
+Dialogue: 0,0:09:06.04,0:09:09.16,Default,,0,0,0,,Since there have been a lot of\Nastral mages strikes lately,
+Dialogue: 0,0:09:09.16,0:09:13.08,Default,,0,0,0,,their manpower is busy defending\Nthe front instead of finishing up here.
+Dialogue: 0,0:09:13.08,0:09:16.70,Default,,0,0,0,,I figured. That's the reason why\Nthere are so few people here, too.
+Dialogue: 0,0:09:16.70,0:09:22.37,Default,,0,0,0,,I thought it was strange. It's shuddering\Ntoo much while it's running,
+Dialogue: 0,0:09:22.37,0:09:25.04,Default,,0,0,0,,and there's a lot of rumble\Nin its operating hum.
+Dialogue: 0,0:09:25.04,0:09:28.58,Default,,0,0,0,,Wow, that's our Nene for you!\NSuch a first-rate engineer!
+Dialogue: 0,0:09:28.58,0:09:32.25,Default,,0,0,0,,Also, check out the color and smell\Nof the steam from the exhaust vent!
+Dialogue: 0,0:09:32.25,0:09:34.29,Default,,0,0,0,,The pressure unit is running,
+Dialogue: 0,0:09:34.29,0:09:37.41,Default,,0,0,0,,but the control ring is just about\Nat its threshold--
+Dialogue: 0,0:09:35.66,0:09:37.41,Default,,0,0,0,,{\an8}It's a vicious cycle.
+Dialogue: 0,0:09:37.41,0:09:39.75,Default,,0,0,0,,The Empire builds a reactor.
+Dialogue: 0,0:09:39.75,0:09:42.79,Default,,0,0,0,,Then the Sovereignty launches\Na strike to destroy it.
+Dialogue: 0,0:09:42.79,0:09:44.58,Default,,0,0,0,,So we build more weapons.
+Dialogue: 0,0:09:44.58,0:09:48.45,Default,,0,0,0,,After repeating the cycle for a hundred years,\Nthis is the world we have.
+Dialogue: 0,0:09:48.45,0:09:51.50,Default,,0,0,0,,That's what Master would always regurgitate.
+Dialogue: 0,0:09:51.50,0:09:53.58,Default,,0,0,0,,Whatever triggered this war,
+Dialogue: 0,0:09:53.58,0:09:57.87,Default,,0,0,0,,the reasons that keep dragging it on\Nnow are emotionally charged.
+Dialogue: 0,0:09:57.87,0:10:00.50,Default,,0,0,0,,After coming this far, logic won't stop it.
+Dialogue: 0,0:10:00.50,0:10:05.41,Default,,0,0,0,,Not unless someone forcibly puts an end to it,\Neven if it means being hated.
+Dialogue: 0,0:10:05.41,0:10:07.83,Default,,0,0,0,,Puts an end to it, huh?
+Dialogue: 0,0:10:07.83,0:10:11.58,Default,,0,0,0,,The peace talks that a certain someone\Nis thinking is one option--
+Dialogue: 0,0:10:11.58,0:10:13.87,Default,,0,0,0,,whether it would work or not\Nis a separate matter.
+Dialogue: 0,0:10:19.45,0:10:22.20,Default,,0,0,0,,Okay, acknowledged.
+Dialogue: 0,0:10:22.20,0:10:23.33,Default,,0,0,0,,What is it?
+Dialogue: 0,0:10:23.33,0:10:24.91,Default,,0,0,0,,That was a unit at the front.
+Dialogue: 0,0:10:24.91,0:10:28.04,Default,,0,0,0,,They said they aren't engaging\Nany astral power forces at the moment.
+Dialogue: 0,0:10:28.04,0:10:30.16,Default,,0,0,0,,They're expecting our rendezvous.
+Dialogue: 0,0:10:33.91,0:10:37.25,Default,,0,0,0,,Nene, d-drive more safely!
+Dialogue: 0,0:10:37.25,0:10:39.20,Default,,0,0,0,,It's all right, it's all right.
+Dialogue: 0,0:10:39.20,0:10:41.91,Default,,0,0,0,,I could drive one of these\Nwith one eye closed, no problem.
+Dialogue: 0,0:10:41.91,0:10:44.58,Default,,0,0,0,,I'm begging you, please keep your eyes open!
+Dialogue: 0,0:10:44.58,0:10:45.45,Default,,0,0,0,,Jump!
+Dialogue: 0,0:10:46.20,0:10:48.33,Default,,0,0,0,,Captain, hold on to me!
+Dialogue: 0,0:10:56.20,0:10:58.12,Default,,0,0,0,,Was that a Nebulis astral power force?
+Dialogue: 0,0:10:58.12,0:11:01.04,Default,,0,0,0,,No way! This is still Imperial territory!
+Dialogue: 0,0:11:01.04,0:11:03.37,Default,,0,0,0,,They broke through our front-line defenses.
+Dialogue: 0,0:11:03.37,0:11:05.62,Default,,0,0,0,,There's probably a powerful astral mage around.
+Dialogue: 0,0:11:05.62,0:11:06.87,Default,,0,0,0,,Incoming message.
+Dialogue: 0,0:11:06.87,0:11:11.12,Default,,0,0,0,,It's a general request for backup from\Nthe Nelka force communications team.
+Dialogue: 0,0:11:11.12,0:11:14.41,Default,,0,0,0,,No time to waste, is there?\NWe still have our sneak attack,
+Dialogue: 0,0:11:14.41,0:11:17.41,Default,,0,0,0,,but there's a battalion of astral mages\Nclosing in at a furious pace.
+Dialogue: 0,0:11:17.41,0:11:18.70,Default,,0,0,0,,Jhin, behind you!
+Dialogue: 0,0:11:33.08,0:11:35.62,Default,,0,0,0,,He just cut through astral power flames?
+Dialogue: 0,0:11:35.62,0:11:38.70,Default,,0,0,0,,T-Two astral mages! Everyone, watch yourselves!
+Dialogue: 0,0:11:38.70,0:11:41.70,Default,,0,0,0,,We know. And don't shout out orders like that.
+Dialogue: 0,0:11:41.70,0:11:43.41,Default,,0,0,0,,They'll know in a second who the boss is.
+Dialogue: 0,0:11:43.41,0:11:45.04,Default,,0,0,0,,Just worry about yourself instead.
+Dialogue: 0,0:11:45.04,0:11:47.37,Default,,0,0,0,,I don't need your backtalk, either!
+Dialogue: 0,0:11:47.37,0:11:48.83,Default,,0,0,0,,Then stand back.
+Dialogue: 0,0:11:52.04,0:11:54.04,Default,,0,0,0,,Wind astral mages.
+Dialogue: 0,0:12:00.79,0:12:02.25,Default,,0,0,0,,When did they...?!
+Dialogue: 0,0:12:02.25,0:12:06.25,Default,,0,0,0,,I guess there's no presence to detect\Nwhen they burrow underground.
+Dialogue: 0,0:12:06.25,0:12:10.12,Default,,0,0,0,,That's a large-scale spell.\NThey have a fairly powerful astral mage.
+Dialogue: 0,0:12:10.12,0:12:12.50,Default,,0,0,0,,How can you two be so calm?!
+Dialogue: 0,0:12:12.50,0:12:14.87,Default,,0,0,0,,Because we anticipated\Nsomething like this happening.
+Dialogue: 0,0:12:14.87,0:12:16.75,Default,,0,0,0,,Iska, can you cut through them all?
+Dialogue: 0,0:12:16.75,0:12:20.50,Default,,0,0,0,,Once I get my intuition back.\NRight now, it would be a bit difficult.
+Dialogue: 0,0:12:20.50,0:12:21.50,Default,,0,0,0,,Which means,
+Dialogue: 0,0:12:21.50,0:12:24.29,Default,,0,0,0,,I'll need to ask for your help, Nene.
+Dialogue: 0,0:12:24.29,0:12:25.41,Default,,0,0,0,,Roger that!
+Dialogue: 0,0:12:26.45,0:12:29.75,Default,,0,0,0,,Anti-astral-power flares... deploy!
+Dialogue: 0,0:12:41.12,0:12:42.58,Default,,0,0,0,,You take the right.
+Dialogue: 0,0:12:46.83,0:12:49.25,Default,,0,0,0,,Astral power of raging inferno...!
+Dialogue: 0,0:12:52.87,0:12:54.12,Default,,0,0,0,,Burst forth!
+Dialogue: 0,0:13:03.04,0:13:05.83,Default,,0,0,0,,You jumped out of range?
+Dialogue: 0,0:13:05.83,0:13:08.04,Default,,0,0,0,,There's no way you could do that!
+Dialogue: 0,0:13:09.62,0:13:12.50,Default,,0,0,0,,That's what the training I underwent was for.
+Dialogue: 0,0:13:16.04,0:13:17.70,Default,,0,0,0,,Jhin, how are you coming along?
+Dialogue: 0,0:13:17.70,0:13:18.79,Default,,0,0,0,,All done.
+Dialogue: 0,0:13:19.79,0:13:24.83,Default,,0,0,0,,Amazing. Jhin and Iska,\Nyou never fail to impress.
+Dialogue: 0,0:13:24.83,0:13:29.54,Default,,0,0,0,,A year ago, we might've left everything\Nto Iska and gone on ahead without him.
+Dialogue: 0,0:13:29.54,0:13:32.33,Default,,0,0,0,,You're an anti-war berserker, was it?
+Dialogue: 0,0:13:36.33,0:13:38.33,Default,,0,0,0,,Earth astral power?
+Dialogue: 0,0:13:38.33,0:13:42.00,Default,,0,0,0,,A golem. And one that can\Ngenerate quickly, too.
+Dialogue: 0,0:13:43.37,0:13:48.50,Default,,0,0,0,,How peculiar. You dealt with that unit\Nbefore I even arrived?
+Dialogue: 0,0:13:48.50,0:13:51.04,Default,,0,0,0,,By all appearances,\Nyou're just an ordinary squad.
+Dialogue: 0,0:13:51.04,0:13:52.12,Default,,0,0,0,,Come to life.
+Dialogue: 0,0:14:02.16,0:14:04.70,Default,,0,0,0,,Captain, I'll take care of this.
+Dialogue: 0,0:14:04.70,0:14:07.29,Default,,0,0,0,,Please take Jhin and Nene\Nand go offer some support.
+Dialogue: 0,0:14:07.29,0:14:09.41,Default,,0,0,0,,Huh? But...
+Dialogue: 0,0:14:09.41,0:14:12.87,Default,,0,0,0,,We'll spend just as much time\Nwith all four of us being here.
+Dialogue: 0,0:14:12.87,0:14:15.37,Default,,0,0,0,,All right. Be careful!
+Dialogue: 0,0:14:20.00,0:14:21.75,Default,,0,0,0,,It regenerated?
+Dialogue: 0,0:14:28.20,0:14:31.33,Default,,0,0,0,,You sliced through my astral arts?\NAre you a Saint Disciple?!
+Dialogue: 0,0:14:31.33,0:14:32.75,Default,,0,0,0,,I have no intention of answering that.
+Dialogue: 0,0:14:32.75,0:14:37.16,Default,,0,0,0,,But I will if you tell me where the astral\Nmage called the Ice Calamity Witch is.
+Dialogue: 0,0:14:37.16,0:14:42.29,Default,,0,0,0,,Silence, you grunt! I will not allow you\Nto even look upon her!
+Dialogue: 0,0:14:42.29,0:14:46.54,Default,,0,0,0,,I suppose you wouldn't. But I have business\Nwith the Ice Calamity Witch!
+Dialogue: 0,0:14:46.54,0:14:48.08,Default,,0,0,0,,You can forget it!
+Dialogue: 0,0:14:56.16,0:14:57.70,Default,,0,0,0,,Too slow.
+Dialogue: 0,0:14:57.70,0:14:59.87,Default,,0,0,0,,Who the hell are you?
+Dialogue: 0,0:14:59.87,0:15:01.75,Default,,0,0,0,,Where is the Ice Calamity Witch?
+Dialogue: 0,0:15:01.75,0:15:06.70,Default,,0,0,0,,Kill me. We astral mages will\Nhave nothing to do with Imperial dogs.
+Dialogue: 0,0:15:06.70,0:15:09.95,Default,,0,0,0,,We're prepared to choose death\Nrather than become your prisoners.
+Dialogue: 0,0:15:13.54,0:15:16.20,Default,,0,0,0,,Did you think threatening me\Nwith your sword would rattle me?
+Dialogue: 0,0:15:16.20,0:15:18.08,Default,,0,0,0,,I'm up for close-quarters combat, too.
+Dialogue: 0,0:15:18.08,0:15:19.25,Default,,0,0,0,,Away with you!
+Dialogue: 0,0:15:21.50,0:15:23.20,Default,,0,0,0,,I-Impossible...
+Dialogue: 0,0:15:30.91,0:15:32.20,Default,,0,0,0,,Lady Alice...
+Dialogue: 0,0:15:32.20,0:15:35.20,Default,,0,0,0,,Alice? Don't tell me {\i1}you're{\i0}\Nthe Ice Calamity...
+Dialogue: 0,0:15:35.20,0:15:36.37,Default,,0,0,0,,Yes.
+Dialogue: 0,0:15:42.20,0:15:44.16,Default,,0,0,0,,That is my name.
+Dialogue: 0,0:15:45.75,0:15:49.04,Default,,0,0,0,,Let me prove it. You can experience it yourself.
+Dialogue: 0,0:15:50.50,0:15:52.12,Default,,0,0,0,,Great Ice Calamity.
+Dialogue: 0,0:16:04.25,0:16:06.00,Default,,0,0,0,,Rin, are you all right?
+Dialogue: 0,0:16:06.00,0:16:07.62,Default,,0,0,0,,Lady Alice.
+Dialogue: 0,0:16:11.04,0:16:13.08,Default,,0,0,0,,You're joking...
+Dialogue: 0,0:16:13.08,0:16:14.70,Default,,0,0,0,,Please be careful.
+Dialogue: 0,0:16:14.70,0:16:18.66,Default,,0,0,0,,That man's sword can slice through\Nand block astral arts.
+Dialogue: 0,0:16:18.66,0:16:22.50,Default,,0,0,0,,Thank you, Rin. You did well to stall him.
+Dialogue: 0,0:16:22.50,0:16:23.62,Default,,0,0,0,,Stall?
+Dialogue: 0,0:16:27.45,0:16:29.54,Default,,0,0,0,,The reactor!
+Dialogue: 0,0:16:29.54,0:16:31.12,Default,,0,0,0,,Shatter away.
+Dialogue: 0,0:16:33.58,0:16:35.91,Default,,0,0,0,,So this was your plan all along?
+Dialogue: 0,0:16:35.91,0:16:37.29,Default,,0,0,0,,Who are you?
+Dialogue: 0,0:16:37.29,0:16:40.41,Default,,0,0,0,,How could someone who's not\Na Saint Disciple overpower Rin?
+Dialogue: 0,0:16:40.41,0:16:42.62,Default,,0,0,0,,I'm here to capture you.
+Dialogue: 0,0:16:42.62,0:16:44.87,Default,,0,0,0,,Who do you think you're talking to?
+Dialogue: 0,0:16:44.87,0:16:48.95,Default,,0,0,0,,If you don't want to feel an icy pain\Nthat is far worse than death, then...
+Dialogue: 0,0:16:48.95,0:16:50.58,Default,,0,0,0,,Surrender.
+Dialogue: 0,0:16:51.58,0:16:55.00,Default,,0,0,0,,Swordsman of the Empire, what is your name?
+Dialogue: 0,0:16:55.00,0:16:57.25,Default,,0,0,0,,Iska. And yours?
+Dialogue: 0,0:16:57.25,0:16:59.91,Default,,0,0,0,,Aliceliese Lou Nebulis IX.
+Dialogue: 0,0:16:59.91,0:17:01.95,Default,,0,0,0,,And you already know
+Dialogue: 0,0:17:01.95,0:17:06.50,Default,,0,0,0,,that I am the astral mage you Imperials\Ncall the "Ice Calamity Witch."
+Dialogue: 0,0:17:12.00,0:17:13.91,Default,,0,0,0,,Walls, crush forward!
+Dialogue: 0,0:17:17.66,0:17:20.45,Default,,0,0,0,,Ice Calamity: Thousand Thorn Blizzard!
+Dialogue: 0,0:17:23.45,0:17:24.58,Default,,0,0,0,,Pierce through!
+Dialogue: 0,0:17:35.41,0:17:37.54,Default,,0,0,0,,That's the best you can do?
+Dialogue: 0,0:17:37.54,0:17:39.16,Default,,0,0,0,,No...
+Dialogue: 0,0:17:39.16,0:17:40.37,Default,,0,0,0,,Awaken.
+Dialogue: 0,0:17:46.41,0:17:50.29,Default,,0,0,0,,He can use the same astral art\Nas Lady Alice?! Who are you?!
+Dialogue: 0,0:17:50.29,0:17:53.75,Default,,0,0,0,,This is the astral swords' power, not mine.
+Dialogue: 0,0:17:56.08,0:17:57.12,Default,,0,0,0,,Ice Blossom.
+Dialogue: 0,0:18:01.25,0:18:04.50,Default,,0,0,0,,It's an impenetrable shield. You should give up.
+Dialogue: 0,0:18:04.50,0:18:06.58,Default,,0,0,0,,Give up?
+Dialogue: 0,0:18:06.58,0:18:10.79,Default,,0,0,0,,If I give up here,\Nwho'll put a stop to this war?!
+Dialogue: 0,0:18:16.83,0:18:17.91,Default,,0,0,0,,Vines!
+Dialogue: 0,0:18:27.25,0:18:29.95,Default,,0,0,0,,Lady Alice stepped back?
+Dialogue: 0,0:18:29.95,0:18:32.87,Default,,0,0,0,,So persistent. Surrender or fall!
+Dialogue: 0,0:18:32.87,0:18:34.45,Default,,0,0,0,,Why don't {\i1}you{\i0} retreat instead?!
+Dialogue: 0,0:18:34.45,0:18:38.87,Default,,0,0,0,,I will not retreat until I defeat\Nthe Empire and unite the world.
+Dialogue: 0,0:18:38.87,0:18:40.83,Default,,0,0,0,,Unite the world?
+Dialogue: 0,0:18:40.83,0:18:43.79,Default,,0,0,0,,An everlasting peace.\NNo invasion, no persecution...
+Dialogue: 0,0:18:43.79,0:18:49.20,Default,,0,0,0,,That is what I,\Nheir to the Nebulis Sovereignty, Aliceliese--
+Dialogue: 0,0:18:58.83,0:19:01.29,Default,,0,0,0,,Y-You okay?
+Dialogue: 0,0:19:01.29,0:19:04.00,Default,,0,0,0,,Y-Yes, thank you.
+Dialogue: 0,0:19:09.91,0:19:12.95,Default,,0,0,0,,Wait, wh-wh-wh-wh-wh-wh-wh-what\Ndo you think you're doing?!
+Dialogue: 0,0:19:12.95,0:19:14.16,Default,,0,0,0,,It was reflex...
+Dialogue: 0,0:19:14.16,0:19:15.87,Default,,0,0,0,,Iska!
+Dialogue: 0,0:19:20.33,0:19:22.12,Default,,0,0,0,,Rin, we shall retreat.
+Dialogue: 0,0:19:22.12,0:19:24.33,Default,,0,0,0,,B-But Lady Alice?!
+Dialogue: 0,0:19:29.54,0:19:33.45,Default,,0,0,0,,Iska, was it? Do not think\Nyou will get so lucky next time.
+Dialogue: 0,0:19:42.54,0:19:44.12,Default,,0,0,0,,Iska!
+Dialogue: 0,0:19:45.12,0:19:47.83,Default,,0,0,0,,I'm so glad you're safe!
+Dialogue: 0,0:19:47.83,0:19:50.87,Default,,0,0,0,,You had me worried!
+Dialogue: 0,0:19:50.87,0:19:53.20,Default,,0,0,0,,Are you okay? Are you injured?
+Dialogue: 0,0:19:53.20,0:19:56.66,Default,,0,0,0,,Hugging a possibly injured subordinate\Nmight not be a good idea...
+Dialogue: 0,0:19:56.66,0:19:58.50,Default,,0,0,0,,Oh, sorry!
+Dialogue: 0,0:19:58.50,0:20:02.12,Default,,0,0,0,,Hey, Jhin. Is this really from an astral art?
+Dialogue: 0,0:20:02.12,0:20:06.00,Default,,0,0,0,,The rumors were true. Looks like she's\Nan extraordinary astral mage.
+Dialogue: 0,0:20:06.00,0:20:09.79,Default,,0,0,0,,The ice made it all the way near\Nour rendezvous point on the frontlines.
+Dialogue: 0,0:20:26.20,0:20:30.08,Default,,0,0,0,,Lady Alice, have you been\Nbathing this whole time?
+Dialogue: 0,0:20:30.08,0:20:32.41,Default,,0,0,0,,Let's get out of the bath.
+Dialogue: 0,0:20:44.08,0:20:48.16,Default,,0,0,0,,If I give up here,\Nwho'll put a stop to this war?!
+Dialogue: 0,0:20:54.08,0:20:56.41,Default,,0,0,0,,Ugh, this isn't doing me any good!
+Dialogue: 0,0:20:56.41,0:20:58.95,Default,,0,0,0,,I need a change of scenery!
+Dialogue: 0,0:20:58.95,0:21:00.54,Default,,0,0,0,,Lady Alice?
+Dialogue: 0,0:21:04.37,0:21:06.50,Default,,0,0,0,,Hey, Rin, look.
+Dialogue: 0,0:21:06.50,0:21:10.37,Default,,0,0,0,,"Tragic love of female knight Beatrix."
+Dialogue: 0,0:21:10.37,0:21:14.08,Default,,0,0,0,,You want to go to the opera house\Nin Neutral City again?
+Dialogue: 0,0:21:17.04,0:21:22.12,Default,,0,0,0,,Good bye, Beatrix. I cannot be with you.
+Dialogue: 0,0:21:17.70,0:21:22.12,Default,,0,0,0,,{\an8}Oh, Beatrix! To fall in love\Nwith an enemy knight...
+Dialogue: 0,0:21:22.12,0:21:26.04,Default,,0,0,0,,{\an8}♬ Good bye, Azel. ♬
+Dialogue: 0,0:21:22.12,0:21:26.04,Default,,0,0,0,,A forbidden love that will never bear fruit,\Nno matter how strong the love.
+Dialogue: 0,0:21:26.04,0:21:29.54,Default,,0,0,0,,How can there be such pained love?
+Dialogue: 0,0:21:26.04,0:21:29.54,Default,,0,0,0,,{\an8}♬ When we meet again, it will not be in\Na church like tonight, but on a battlefield. ♬
+Dialogue: 0,0:21:29.54,0:21:33.75,Default,,0,0,0,,Azel, you're such an idiot... How could you...
+Dialogue: 0,0:21:33.75,0:21:35.95,Default,,0,0,0,,Shhh, please keep it down.
+Dialogue: 0,0:21:35.95,0:21:37.87,Default,,0,0,0,,Where is your handkerchief?
+Dialogue: 0,0:21:37.87,0:21:41.00,Default,,0,0,0,,It's already soaking wet.
+Dialogue: 0,0:21:41.00,0:21:43.16,Default,,0,0,0,,Um, why don't you take this?
+Dialogue: 0,0:21:43.16,0:21:46.83,Default,,0,0,0,,Huh? Thank you so much.
+Dialogue: 0,0:21:58.33,0:22:01.75,Default,,0,0,0,,Um, I apologize for getting\Nyour handkerchief wet.
+Dialogue: 0,0:22:01.75,0:22:03.87,Default,,0,0,0,,I would like to pay for it.
+Dialogue: 0,0:22:03.87,0:22:06.00,Default,,0,0,0,,Oh no, please don't worry.
+Dialogue: 0,0:22:06.00,0:22:07.87,Default,,0,0,0,,It's just a cheap handker--
+Dialogue: 0,0:22:13.54,0:22:14.87,Default,,0,0,0,,Huh?
+Dialogue: 0,0:22:16.04,0:22:19.94,Default,,0,0,0,,{\fad(0,500)\an8\pos(640,452)}The Encounter of the Two Nations'\NUltimate Weapons
